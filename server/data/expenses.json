@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1713340800000-demo-1",
+    "title": "Groceries",
+    "amount": 48.5,
+    "category": "Food",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "1713340800000-demo-2",
+    "title": "Electricity Bill",
+    "amount": 72.25,
+    "category": "Bills",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "1776423594404-90rtxz",
+    "title": "Dinner",
+    "amount": 24,
+    "category": "Food",
+    "date": "2026-04-17"
+  }
+]
